@@ -1,0 +1,30 @@
+.fgd {
+    color: blue;
+    font-size: 27px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+.fff {
+    color: red;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+}
+.ggg {
+    color: green;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+}
+.jjj {
+    color: purple;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: overline;
+}
+.div {
+    color: pink;
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: overline;
+}
